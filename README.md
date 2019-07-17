@@ -1,7 +1,9 @@
-# Deprecated
-Please note that there will not be updates made to this repository for future PAS or OM releases.
+# End of Availability
+**PCF Platform Automation with Concourse (PCF Pipelines) has reached its End of Availability (“EoA”) and is no longer available.**
 
-2.4 is the last supported version.
+[Platform Automation for PCF](https://network.pivotal.io/platform-automation) has replaced PCF Pipelines. Platform Automation for PCF is available for download on Pivotal Network.
+
+You can find documentation for this new product in [Pivotal Documentation](https://docs.pivotal.io/platform-automation)
 
 ### Description
 
